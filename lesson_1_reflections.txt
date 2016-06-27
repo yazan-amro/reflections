@@ -1,0 +1,25 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It helped me by letting me see the differences directly using the terminal instead of manually going through line by line and seeing what was wrong. 
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If you ever make mistakes or need to go back to a time where the file fully functioned, it saves you so much time and makes your life that much easier.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros of manually choosing commit is you can always control when you decide to save after a change and you dont risk overdoing the commits and making it useless and irrelevant because theres too many versions. The downside is you might forget to commit and then mess up and not know how to get back to a working version. 
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+They allow us to save multiple in one commit bc it helps us correlate the files to each other. 
+
+5. How can you use the commands git log and git diff to view the history of files?
+You basically just use git log to see the past changes and then do git diff and see the differences made between the two files and what you added and got rid of. 
+
+6. How might using version control make you more confident to make changes that could break something?
+I can do whatever I want without worrying that I wont be able to go back to a version that actually worked in the past. 
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+I would like to use it for creating projects and trying crazy and new things and then using git to help me traceback whenever something isnt working and I want to find out why it didnt work. 
+
