@@ -6,3 +6,7 @@ Because you might make changes that you dont want to push to the remote.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork is forked from github, clone is dublicate on local drive from github, and branches are sepeperate commits within a project.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+If you want to work without internet you can use your updated local copy to work on and then merge those changes into your own branches later on. You can also perform the merges when you're offline, you have a really convienent way of accessing it.
