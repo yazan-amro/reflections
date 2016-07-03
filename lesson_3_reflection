@@ -10,3 +10,7 @@ Fork is forked from github, clone is dublicate on local drive from github, and b
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 If you want to work without internet you can use your updated local copy to work on and then merge those changes into your own branches later on. You can also perform the merges when you're offline, you have a really convienent way of accessing it.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+It's good for changes to code in general but when working on the same things its better to be using github. 
