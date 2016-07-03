@@ -4,3 +4,25 @@ When you intializae it, you basically create a file within the system that git c
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit. It’s sometimes referred to as the “index”, but it’s also common to refer to it as the staging area.
 
+3. How can you use the staging area to make sure you have one commit per logical change?
+You use the staging area by putting things in there that you want to commit that are related.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to create an alternate version of your project or new feature and dont want to mess up the original file that you have that works perfectly. 
+
+5. How do the diagrams help you visualize the branch structure?
+They help us know what has been committed and what the chain is. Hard to describe this. 
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+wut
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:
+* Saves your time, especially when each non-conflicting merge is trivial.
+* Makes you concentrate on the changes which actually contain conflicts.
+
+Cons:
+* Can't thnink of any definite ones. Maybe can make it easier to overlook the potentially dangerous situation where two person are working on the same file at the same time.
+
+
+
